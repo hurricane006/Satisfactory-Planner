@@ -1,0 +1,21 @@
+[	
+	{
+		"NativeClass": "/Script/CoreUObject.Class'/Script/FactoryGame.FGRecipe'",
+		"Classes": [
+			{
+				"ClassName": "Recipe_Wall_Concrete_8x1_C",
+				"FullName": "BlueprintGeneratedClass /Game/FactoryGame/Buildable/Building/Wall/ConcreteWallSet/Recipe_Wall_Concrete_8x1.Recipe_Wall_Concrete_8x1_C",
+				"mDisplayName": "Basic Wall (1 m)",
+				"mIngredients": "((ItemClass=\"/Script/Engine.BlueprintGeneratedClass'/Game/FactoryGame/Resource/Parts/Cement/Desc_Cement.Desc_Cement_C'\",Amount=2))",
+				"mProduct": "((ItemClass=\"/Script/Engine.BlueprintGeneratedClass'/Game/FactoryGame/Buildable/Building/Wall/ConcreteWallSet/Desc_Wall_Concrete_8x1.Desc_Wall_Concrete_8x1_C'\",Amount=1))",
+				"mManufacturingMenuPriority": "0.000000",
+				"mManufactoringDuration": "1.000000",
+				"mManualManufacturingMultiplier": "1.000000",
+				"mProducedIn": "(\"/Game/FactoryGame/Equipment/BuildGun/BP_BuildGun.BP_BuildGun_C\")",
+				"mRelevantEvents": "",
+				"mVariablePowerConsumptionConstant": "0.000000",
+				"mVariablePowerConsumptionFactor": "1.000000"
+			}
+		]
+	}
+]
